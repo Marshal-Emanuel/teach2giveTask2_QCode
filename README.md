@@ -37,4 +37,5 @@ This project is a front-end coding challenge provided by Frontend Mentor. The go
 - Vannila CSS
 
 ## Author
-- https://github.com/Marshal-Emanuel
+- : [Marshal-Emanuel](https://github.com/Marshal-Emanuel)
+- 
