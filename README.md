@@ -17,8 +17,12 @@ This project is a front-end coding challenge provided by Frontend Mentor. The go
 
 ### Screenshot
 
-Screenshot of my solution.
-![](./images./screenshot.png)
+# QR Code Component Challenge
+
+[![QR Code Component Screenshot](images/screenshot.png)] 
+
+...
+
 
 ### Links
 
