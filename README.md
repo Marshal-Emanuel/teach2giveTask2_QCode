@@ -17,8 +17,6 @@ This project is a front-end coding challenge provided by Frontend Mentor. The go
 
 ### Screenshot
 
-# QR Code Component Challenge
-
 ![QR Code Component Screenshot](images/screenshot.png)
 
 ...
@@ -38,4 +36,3 @@ This project is a front-end coding challenge provided by Frontend Mentor. The go
 
 ## Author
 - : [Marshal-Emanuel](https://github.com/Marshal-Emanuel)
-- 
