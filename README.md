@@ -19,7 +19,7 @@ This project is a front-end coding challenge provided by Frontend Mentor. The go
 
 # QR Code Component Challenge
 
-[![QR Code Component Screenshot](images/screenshot.png)] 
+![QR Code Component Screenshot](images/screenshot.png)
 
 ...
 
