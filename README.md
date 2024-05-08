@@ -22,8 +22,8 @@ Screenshot of my solution.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Marshal-Emanuel/teach2giveTask2_QCode)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Task2_QR_Code](https://github.com/Marshal-Emanuel/teach2giveTask2_QCode)
+- Live Site URL: [Live page](https://marshal-emanuel.github.io/teach2giveTask2_QCode/)
 
 ## My process
 
