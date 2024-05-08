@@ -25,7 +25,7 @@ This project is a front-end coding challenge provided by Frontend Mentor. The go
 ### Links
 
 - Solution URL: [Task2_QR_Code](https://github.com/Marshal-Emanuel/teach2giveTask2_QCode)
-- Live Site URL: [Live page](https://marshal-emanuel.github.io/teach2giveTask2_QCode/)
+- Live Site URL: [Live page](https://marshal-emanuel.github.io/teach2giveTask2_Qr_Code/)
 
 ## My process
 
